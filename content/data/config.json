@@ -37,7 +37,7 @@
                 "type": "Button",
                 "label": "Contact Me",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "Contact Me",
                 "style": "primary"
             }
         ],
