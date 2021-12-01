@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love where you work, because work loves you'
+    title: "Hi, I'm Orin!\_ I like to build things and solve problems."
     text: >
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
